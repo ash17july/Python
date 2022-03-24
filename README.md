@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @ash17july
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me ashwinijuly196@gmail.com
-
-<!---
-ash17july/ash17july is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm from mumbai, currently i am pursuing python programming from Net Tech ,I do want to work in web Development and learn new programming comes under the Course.
